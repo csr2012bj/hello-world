@@ -1,0 +1,6 @@
+//u盘感染survival.vbe病毒
+//制作a.bat存放：
+del*.link
+attrib -r -s -h /s /d
+del SURVIVAL.vbe
+//双击以上a.bat文件或者在cmd命令行窗口中，cd到U盘根目录下，运行a.bat
